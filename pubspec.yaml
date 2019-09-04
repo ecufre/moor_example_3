@@ -1,0 +1,30 @@
+name: moor_example_3
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  moor_flutter: ^1.7.0
+  provider: ^3.0.0+1
+  flutter_slidable: ^0.5.3
+  moor: ^1.7.1
+  flutter_material_color_picker: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  moor_generator: ^1.7.1
+  build_runner:
+
+
+flutter:
+  uses-material-design: true
+
+  
